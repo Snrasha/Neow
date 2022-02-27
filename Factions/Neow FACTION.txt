@@ -1,0 +1,58 @@
+FACTION NAME
+Present
+
+FACTION UNITS ALTERNATES
+2
+
+HERO NAMES (fighter first, caster second)
+Nebrawler
+Negunner
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Building 1
+Building 2
+Building 3
+Building 4
+Building 5
+Building 6
+
+MAGIC SCHOOL SPECIALTY
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Deadlands
+
+TOWN NAMES (write as many as required)
+D4-k
+D5-k
+C2-B
+U10-W
+V1-A
+V2-A
+
+
+TOWN MUSIC (write name of faction to borrow music from)
+Arcane
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Fire
+
+ARCHMAGE TRIBUNAL SKILL
+Leadership
+
+LORE NAME:
+Todo Lore Name
+
+LORE MAIN RACE:
+Irradied human
+
+LORE HISTORY:
+Todo lore history
+
+LORE CULTURE:
+Todo lore culture
+
+LORE HERO FIGHTER:
+Todo lore hero fighter
+
+LORE HERO CASTER:
+Todo lore hero caster
