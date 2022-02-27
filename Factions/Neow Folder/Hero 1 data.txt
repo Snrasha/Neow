@@ -1,8 +1,8 @@
 Name
-Jack Frost
+Gary the blind
 
 Unit
-Abominable
+Soldier1
 
 Skills
 Healing
