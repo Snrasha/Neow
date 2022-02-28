@@ -2,8 +2,24 @@ Name
 Gary the blind
 
 Unit
-Soldier1
+Ne-Drone
 
 Skills
+Recruitment
+Rallying
+Legion
 Healing
-Diplomacy
+Champion
+Oligarchy
+Archery
+Leadership
+Fortune
+Scouting
+Bodyguards
+Engineering
+Destruction
+Royalty
+Combat
+Warding
+Champion
+
