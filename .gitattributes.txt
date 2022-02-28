@@ -1,0 +1,5 @@
+.gitattributes export-ignore
+.gitignore export-ignore
+/Artifacts_old export-ignore
+*.piskel export-ignore
+*.gif export-ignore
