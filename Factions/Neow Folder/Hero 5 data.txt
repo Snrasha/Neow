@@ -1,9 +1,24 @@
 Name
-Krampus
+ProtoAndroid Mk2
 
 Unit
-Krampus
+Ne-Drone
 
 Skills
-Hydromancy
 Pyromancy
+Destruction
+Regeneration
+Learning
+Estate
+Mastery
+Mysticism
+Wisdom
+Potency
+Bodyguards
+Healing
+Sorcery
+Blessing
+Swarming
+Tactics
+Engineering
+Legion

@@ -1,13 +1,24 @@
 Name
-Cryon
+ProtoAndroid Mk3
 
 Unit
-Ice Engine
+Ne-Drone
 
 Skills
-Hydromancy
-Mastery
-Creation
-Summoning
-Potency
+Pyromancy
+Destruction
 Regeneration
+Learning
+Estate
+Mastery
+Mysticism
+Wisdom
+Potency
+Bodyguards
+Healing
+Sorcery
+Blessing
+Swarming
+Tactics
+Engineering
+Legion

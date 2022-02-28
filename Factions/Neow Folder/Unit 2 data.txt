@@ -1,6 +1,6 @@
 Names (first basic, then the upgrade)
-Little Helper
-Ice Boy
+Ne-Gunner
+Ne-Marine
 
 Gold cost for base unit (also decides basic strength of unit)
 125
@@ -13,14 +13,18 @@ Rare Resource Cost (00 for nothing. Write in number + letter, where letters are:
 
 Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
 100
-80
+110
 
 Abilities for base unit
 Ranged
-Iceprojectile
+Bulletprojectile
+Quick Strikes
 
 Abilities for upgrade (duplicate  from base unit if you want to keep them)
-Infest
+Ranged
+Bulletprojectile
+Quick Strikes
+Sturdy
 
 Use sound effects from X unit
 Wildkind
@@ -29,9 +33,9 @@ Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
 1
 
 Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
-2
+1
 
 Link				(unit summoned via Summoning, Bodyguards, or similar)
-Cryo Engine
+Ne-Gunner
 
 Unit groups
