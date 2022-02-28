@@ -3,3 +3,4 @@
 /Artifacts_old export-ignore
 *.piskel export-ignore
 *.gif export-ignore
+*.zip export-ignore
