@@ -3,8 +3,8 @@ Neow
 
 FACTION UNITS ALTERNATES
 2
-4
-6
+3
+5
 
 HERO NAMES (fighter first, caster second)
 Nebrawler
