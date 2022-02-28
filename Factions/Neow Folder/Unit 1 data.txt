@@ -16,11 +16,15 @@ Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker 
 100
 
 Abilities for base unit
+Inert
 Shrink
+Hover
 
 Abilities for upgrade (duplicate  from base unit if you want to keep them)
+Inert
 Explosion
 Shrink
+Hover
 
 Use sound effects from X unit
 Golem
