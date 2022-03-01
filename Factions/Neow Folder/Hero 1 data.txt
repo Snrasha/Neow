@@ -1,24 +1,24 @@
 Name
-Gary the blind
+ProtoAndroid Mk1
 
 Unit
-Ne-Gunner
+Ne-Drone
 
 Skills
-Recruitment
-Rallying
-Legion
-Healing
-Champion
-Oligarchy
-Archery
-Leadership
-Fortune
-Scouting
-Bodyguards
-Engineering
+Pyromancy
 Destruction
-Royalty
-Combat
-Warding
-Champion
+Regeneration
+Learning
+Estate
+Mastery
+Mysticism
+Wisdom
+Potency
+Bodyguards
+Healing
+Sorcery
+Blessing
+Swarming
+Tactics
+Engineering
+Legion

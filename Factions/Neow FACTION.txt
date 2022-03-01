@@ -40,19 +40,19 @@ ARCHMAGE TRIBUNAL SKILL
 Leadership
 
 LORE NAME:
-Todo Lore Name
+The Returned Empire
 
 LORE MAIN RACE:
-Irradied human
+Transhumanist Human
 
 LORE HISTORY:
-Todo lore history
+From unknown origin, this group of half-human-half-machine came to salvage the land of any resources they find on their march.
 
 LORE CULTURE:
-Todo lore culture
+Despite having the same goal, the Returned are divided into two differing factions. The left wing which focus on the principle of unity and the transcendence into absolute beings; and the right wing which believe in individual strength and the strive to make full use of their crippled body.
 
 LORE HERO FIGHTER:
-Todo lore hero fighter
+A Commander of the left wing, had "transcended" most of their feeble flesh into powerful inorganic weapon of destruction.
 
 LORE HERO CASTER:
-Todo lore hero caster
+An elder of the right wing, modified his crippled body parts with prosthetics capable of storing and manipulating magical substances.

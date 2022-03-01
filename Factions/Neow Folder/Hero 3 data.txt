@@ -1,9 +1,24 @@
 Name
-Lennart
+ProtoAndroid Mk3
 
 Unit
-Waddler
+Ne-Drone
 
 Skills
-Legion
+Pyromancy
+Destruction
+Regeneration
+Learning
+Estate
+Mastery
+Mysticism
+Wisdom
+Potency
+Bodyguards
+Healing
+Sorcery
+Blessing
 Swarming
+Tactics
+Engineering
+Legion

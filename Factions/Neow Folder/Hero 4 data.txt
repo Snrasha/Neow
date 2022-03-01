@@ -1,24 +1,27 @@
 Name
-ProtoAndroid Mk1
+Gary the blind
+
+Class
+
 
 Unit
-Ne-Drone
+Ne-Gunner
 
 Skills
-Pyromancy
-Destruction
-Regeneration
-Learning
-Estate
-Mastery
-Mysticism
-Wisdom
-Potency
-Bodyguards
-Healing
-Sorcery
-Blessing
-Swarming
-Tactics
-Engineering
+Recruitment
+Rallying
 Legion
+Healing
+Champion
+Oligarchy
+Archery
+Leadership
+Fortune
+Scouting
+Bodyguards
+Engineering
+Destruction
+Royalty
+Combat
+Warding
+Mastery

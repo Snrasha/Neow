@@ -1,9 +1,24 @@
 Name
-Klaus
+ProtoAndroid Mk2
 
 Unit
-Little Helper
+Ne-Drone
 
 Skills
-Leadership
-Fortune
+Pyromancy
+Destruction
+Regeneration
+Learning
+Estate
+Mastery
+Mysticism
+Wisdom
+Potency
+Bodyguards
+Healing
+Sorcery
+Blessing
+Swarming
+Tactics
+Engineering
+Legion

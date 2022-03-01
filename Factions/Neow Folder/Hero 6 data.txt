@@ -1,24 +1,9 @@
 Name
-ProtoAndroid Mk3
+Lennart
 
 Unit
-Ne-Drone
+Waddler
 
 Skills
-Pyromancy
-Destruction
-Regeneration
-Learning
-Estate
-Mastery
-Mysticism
-Wisdom
-Potency
-Bodyguards
-Healing
-Sorcery
-Blessing
-Swarming
-Tactics
-Engineering
 Legion
+Swarming
