@@ -1,24 +1,27 @@
 Name
 ProtoAndroid Mk1
 
+Class
+
+
 Unit
 Ne-Drone
 
 Skills
-Pyromancy
-Destruction
-Regeneration
-Learning
-Estate
 Mastery
-Mysticism
-Wisdom
-Potency
-Bodyguards
-Healing
-Sorcery
-Blessing
-Swarming
-Tactics
-Engineering
+Armorer
 Legion
+Healing
+Plunder
+Oligarchy
+Destruction
+Recruitment
+Engineering
+Scouting
+Bodyguards
+Planning
+Logistics
+Royalty
+Regeneration
+Leadership
+Fortune

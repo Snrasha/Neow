@@ -7,8 +7,8 @@ FACTION UNITS ALTERNATES
 5
 
 HERO NAMES (fighter first, caster second)
-Nebrawler
-Negunner
+Ne-Cyborg
+Ne-Android
 
 DWELLING NAMES (in order from tier 1, 6 in total)
 Building 1
@@ -28,7 +28,6 @@ C2-B
 U10-W
 V1-A
 V2-A
-
 
 TOWN MUSIC
 Arcane

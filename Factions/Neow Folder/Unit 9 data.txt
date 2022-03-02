@@ -9,10 +9,10 @@ Weekly Growth
 1
 
 Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
-9O
+5O
 
 Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
-90
+100
 100
 
 Abilities for base unit
@@ -20,7 +20,6 @@ Hover
 Small
 Big
 Bulletprojectile
-Ranged
 Blaster
 Long Ranged
 Slow
@@ -31,7 +30,6 @@ Hover
 Small
 Big
 Bulletprojectile
-Ranged
 Blaster
 Long Ranged
 Slow
