@@ -36,7 +36,7 @@ Slow
 Inert
 
 Use sound effects from X unit
-Golem
+Onyx Rod
 
 Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
 1

@@ -1,6 +1,6 @@
 Names (first basic, then the upgrade)
-Mimic
-Bjørnetjeneste
+Ne-Swordman
+Ne-Swordmarine
 
 Gold cost for base unit (also decides basic strength of unit)
 150
@@ -16,17 +16,15 @@ Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker 
 100
 
 Abilities for base unit
-Tank
-Hover
+Quick Strikes
 
 Abilities for upgrade (duplicate  from base unit if you want to keep them)
-Tank
-Hover
 Fast
-Terror
+Quick Strikes
+Sturdy
 
 Use sound effects from X unit
-Stone Watcher
+Swordman
 
 Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
 1

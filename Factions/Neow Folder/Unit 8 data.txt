@@ -33,7 +33,7 @@ Warding
 
 
 Use sound effects from X unit
-Golem
+Onyx rod
 
 Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
 1

@@ -27,7 +27,7 @@ Quick Strikes
 Sturdy
 
 Use sound effects from X unit
-Wildkind
+Hand cannoneer
 
 Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
 1

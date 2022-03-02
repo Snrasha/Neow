@@ -27,7 +27,7 @@ Shrink
 Hover
 
 Use sound effects from X unit
-Golem
+Scroll
 
 Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
 1
