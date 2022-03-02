@@ -3,25 +3,28 @@ Ne-Swordman
 Ne-Swordmarine
 
 Gold cost for base unit (also decides basic strength of unit)
-150
+185
 
 Weekly Growth
-9
+8
 
 Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
 00
 
 Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
 100
-100
+110
 
 Abilities for base unit
+Fast
 Quick Strikes
+Small
 
 Abilities for upgrade (duplicate  from base unit if you want to keep them)
 Fast
 Quick Strikes
-Sturdy
+Leap
+
 
 Use sound effects from X unit
 Swordman

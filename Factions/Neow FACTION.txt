@@ -2,13 +2,13 @@ FACTION NAME
 Neow
 
 FACTION UNITS ALTERNATES
-2
 3
+4
 5
 
 HERO NAMES (fighter first, caster second)
-Ne-Cyborg
 Ne-Android
+Ne-Cyborg
 
 DWELLING NAMES (in order from tier 1, 6 in total)
 Building 1

@@ -1,16 +1,13 @@
 Name
-ProtoAndroid Mk1
-
-Class
-
+Olig Vlad
 
 Unit
 Ne-Drone
 
 Skills
-Mastery
-Armorer
 Legion
+Armorer
+Mastery
 Healing
 Plunder
 Oligarchy
@@ -24,4 +21,3 @@ Logistics
 Royalty
 Regeneration
 Leadership
-Fortune

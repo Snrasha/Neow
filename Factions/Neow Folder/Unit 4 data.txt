@@ -1,9 +1,9 @@
 Names (first basic, then the upgrade)
-Ne-Gunner
-Ne-Marine
+Ne-Healer
+Ne-ExoHealer
 
 Gold cost for base unit (also decides basic strength of unit)
-125
+350
 
 Weekly Growth
 10
@@ -18,16 +18,19 @@ Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker 
 Abilities for base unit
 Ranged
 Bulletprojectile
-Quick Strikes
+First Aid
+Feeble
+Small
 
 Abilities for upgrade (duplicate  from base unit if you want to keep them)
 Ranged
 Bulletprojectile
-Quick Strikes
-Sturdy
+Healer
+Tank
+Fast
 
 Use sound effects from X unit
-Wildkind
+Hand cannoneer
 
 Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
 1

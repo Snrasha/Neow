@@ -1,9 +1,6 @@
 Name
 Gary the blind
 
-Class
-
-
 Unit
 Ne-Gunner
 

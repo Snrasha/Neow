@@ -3,10 +3,10 @@ Ne-Gunner
 Ne-Marine
 
 Gold cost for base unit (also decides basic strength of unit)
-125
+120
 
 Weekly Growth
-10
+12
 
 Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
 00
@@ -25,6 +25,7 @@ Ranged
 Bulletprojectile
 Quick Strikes
 Sturdy
+Fast
 
 Use sound effects from X unit
 Hand cannoneer

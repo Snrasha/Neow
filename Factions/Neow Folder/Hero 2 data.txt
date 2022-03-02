@@ -1,24 +1,23 @@
 Name
-ProtoAndroid Mk2
+Andress the bloodless
 
 Unit
 Ne-Drone
 
 Skills
-Pyromancy
-Destruction
-Regeneration
-Learning
-Estate
-Mastery
-Mysticism
-Wisdom
-Potency
-Bodyguards
-Healing
-Sorcery
-Blessing
-Swarming
-Tactics
-Engineering
 Legion
+Armorer
+Mastery
+Healing
+Plunder
+Oligarchy
+Destruction
+Recruitment
+Engineering
+Scouting
+Bodyguards
+Planning
+Logistics
+Royalty
+Regeneration
+Leadership

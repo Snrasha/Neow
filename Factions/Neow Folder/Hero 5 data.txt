@@ -1,24 +1,24 @@
 Name
-Klaus
+Clara the deaf
 
 Unit
-Little Helper
+Ne-Gunner
 
 Skills
-Recruitment
+Pyromancy
 Rallying
-Legion
-Healing
-Champion
+Regeneration
+Learning
 Oligarchy
-Archery
-Leadership
-Fortune
-Scouting
-Bodyguards
-Engineering
-Destruction
-Royalty
-Combat
-Warding
 Mastery
+Mysticism
+Wisdom
+Combat
+Healing
+Bodyguards
+Sorcery
+Blessing
+Bloodwarping
+Champion
+Tactics
+Legion

@@ -1,24 +1,24 @@
 Name
-ProtoAndroid Mk3
+Wirika Marika
 
 Unit
 Ne-Drone
 
 Skills
-Pyromancy
-Destruction
-Regeneration
-Learning
-Estate
-Mastery
-Mysticism
-Wisdom
-Potency
-Bodyguards
-Healing
-Sorcery
-Blessing
-Swarming
-Tactics
-Engineering
 Legion
+Armorer
+Mastery
+Healing
+Plunder
+Oligarchy
+Destruction
+Recruitment
+Engineering
+Scouting
+Bodyguards
+Planning
+Logistics
+Royalty
+Regeneration
+Leadership
+Fortune
