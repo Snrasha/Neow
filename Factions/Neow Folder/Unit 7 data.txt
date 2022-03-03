@@ -3,7 +3,7 @@ Ne-Artillery
 Ne-ExoShard
 
 Gold cost for base unit (also decides basic strength of unit)
-1200
+1500
 
 Weekly Growth
 3
@@ -21,6 +21,7 @@ Long Ranged
 Fireprojectile
 Wide Attacks
 Inert
+Confusion
 
 Abilities for upgrade (duplicate  from base unit if you want to keep them)
 Ranged
@@ -28,6 +29,7 @@ Long Ranged
 Lightningprojectile
 Wide Attacks
 Inert
+Confusion
 Teleswap
 
 Use sound effects from X unit

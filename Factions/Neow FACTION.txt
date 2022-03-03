@@ -2,21 +2,21 @@ FACTION NAME
 Neow
 
 FACTION UNITS ALTERNATES
+2
 3
 4
-5
 
 HERO NAMES (fighter first, caster second)
 Ne-Android
 Ne-Cyborg
 
 DWELLING NAMES (in order from tier 1, 6 in total)
-Building 1
-Building 2
-Building 3
-Building 4
-Building 5
-Building 6
+Micro factory
+Barracks
+Casern
+High quarter
+Magical Manufacture
+Huge Factory
 
 STARTING TERRAIN
 Deadlands

@@ -1,12 +1,12 @@
 Names (first basic, then the upgrade)
-Snow Golem
-Abominable
+Ne-Defender
+Ne-Block
 
 Gold cost for base unit (also decides basic strength of unit)
-550
+450
 
 Weekly Growth
-5
+9
 
 Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
 00
@@ -16,27 +16,24 @@ Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker 
 100
 
 Abilities for base unit
-Flimsy
-Slowing
-Wide Attacks
-Leap
+Protected
+Tank
 
 Abilities for upgrade (duplicate  from base unit if you want to keep them)
-Slowing
+Protected
 Tank
-Terror
-Wide Attacks
+Warding
 
 Use sound effects from X unit
-Cryo Engine
+Swordman
 
 Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
 1
 
 Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
-0
+1
 
 Link				(unit summoned via Summoning, Bodyguards, or similar)
-Toadfrog
+Ne-ShieldRecruit
 
 Unit groups
