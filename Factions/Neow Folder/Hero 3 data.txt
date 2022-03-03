@@ -6,19 +6,19 @@ Ne-Drone
 
 Skills
 Legion
-Armorer
+Archery
 Mastery
 Healing
-Plunder
+Offense
 Oligarchy
 Destruction
 Recruitment
-Engineering
-Scouting
 Bodyguards
+Scouting
+Plunder
 Planning
 Logistics
 Royalty
-Regeneration
-Leadership
+Alchemy
+Tactics
 Fortune

@@ -3,7 +3,7 @@ Ne-FireBringer
 Ne-FireDeath
 
 Gold cost for base unit (also decides basic strength of unit)
-2000
+1200
 
 Weekly Growth
 2

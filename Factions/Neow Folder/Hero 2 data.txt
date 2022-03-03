@@ -6,18 +6,19 @@ Ne-Drone
 
 Skills
 Legion
-Armorer
-Mastery
+Combat
+Champion
 Healing
 Plunder
-Oligarchy
+Bodyguards
 Destruction
 Recruitment
-Engineering
-Scouting
-Bodyguards
+Tactics
+Toxicology
+Swarming
 Planning
 Logistics
 Royalty
-Regeneration
-Leadership
+Bloodlust
+Bloodwarping
+Rallying

@@ -3,7 +3,7 @@ Ne-Leader
 Ne-Chieftain
 
 Gold cost for base unit (also decides basic strength of unit)
-2200
+850
 
 Weekly Growth
 3
@@ -44,6 +44,6 @@ Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid 
 1
 
 Link				(unit summoned via Summoning, Bodyguards, or similar)
-Ne-Marine
+Ne-Gunner
 
 Unit groups

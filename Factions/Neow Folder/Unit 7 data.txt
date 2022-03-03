@@ -3,7 +3,7 @@ Ne-Artillery
 Ne-ExoShard
 
 Gold cost for base unit (also decides basic strength of unit)
-1500
+900
 
 Weekly Growth
 3
