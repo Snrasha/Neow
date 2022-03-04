@@ -1,0 +1,6 @@
+id: 1234567
+visibility: public/friends/private
+version: 1.0
+tags: tags, separated, by commas
+preview: preview.png
+description: The description of the mod is a free text that starts at line 6. All text below this line will be included in the description

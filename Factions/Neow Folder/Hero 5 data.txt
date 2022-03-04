@@ -2,7 +2,7 @@ Name
 Clara the deaf
 
 Unit
-Ne-Gunner
+Ne-Swordman
 
 Skills
 Pyromancy
