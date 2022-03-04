@@ -29,6 +29,9 @@ U10-W
 V1-A
 V2-A
 
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+5
+
 TOWN MUSIC
 Arcane
 

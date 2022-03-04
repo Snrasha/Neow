@@ -17,22 +17,18 @@ Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker 
 
 Abilities for base unit
 Ranged
-Short Ranged
 Bodyguards
 Aura of Power
 Feeble
 Small
 Big
 
-
 Abilities for upgrade (duplicate  from base unit if you want to keep them)
 Ranged
-Short Ranged
 Bodyguards
 Aura of Power
 Tank
 Quick Strikes
-
 
 Use sound effects from X unit
 Hand cannoneer
