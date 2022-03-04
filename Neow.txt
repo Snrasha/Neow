@@ -1,6 +1,10 @@
-id: 1234567
-visibility: public/friends/private
+id: 0
+visibility: public
 version: 1.0
-tags: tags, separated, by commas
-preview: preview.png
-description: The description of the mod is a free text that starts at line 6. All text below this line will be included in the description
+tags: Faction
+preview: Neow.png
+description: Neow is a mod faction of fire mecanist. If you like space marine and robot.
+
+Do not hesitate to send me feedback about the skill tree of heroes or buff/nerf needed for units.
+
+Good game.

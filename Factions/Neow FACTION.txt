@@ -39,7 +39,7 @@ MAGIC SCHOOL SPECIALTY
 Fire
 
 ARCHMAGE TRIBUNAL SKILL
-Leadership
+Armorer
 
 LORE NAME:
 The Returned Empire
