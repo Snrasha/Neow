@@ -6,7 +6,7 @@ Gold cost for base unit
 900
 
 Weekly Growth
-3
+4
 
 Rare Resource Cost
 1S
@@ -33,8 +33,6 @@ Wide Attacks
 Inert
 Confusion
 Empower
-Caster
-Chain Lightning
 
 Use sound effects from X unit
 Onyx rod
@@ -49,5 +47,3 @@ Link
 Ne-Artillery
 
 Unit groups
-
-

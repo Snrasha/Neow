@@ -1,6 +1,6 @@
 Names
 Ne-FireBringer
-Ne-FireDeath
+Ne-FireCrystal
 
 Gold cost for base unit
 1200
@@ -9,7 +9,7 @@ Weekly Growth
 2
 
 Rare Resource Cost
-2M
+1M
 
 Balance modifier
 90
@@ -17,29 +17,23 @@ Balance modifier
 
 Abilities
 Ranged
+Long Ranged
 Fireprojectile
-Burning
 Inert
 Blaster
 Hover
-Small
-Big
 Feeble
 Caster
 Forcefield
 
 Abilities for upgrade
 Ranged
+Long Ranged
 Fireprojectile
-Burning
 Blaster
 Inert
 Empower
-Small
-Big
 Feeble
-Caster
-Forcefield
 
 Use sound effects from X unit
 Onyx Rod
@@ -54,5 +48,3 @@ Link
 No-Artillery
 
 Unit groups
-
-
