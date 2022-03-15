@@ -25,6 +25,8 @@ Hover
 Small
 Big
 Feeble
+Caster
+Forcefield
 
 Abilities for upgrade
 Ranged
@@ -38,7 +40,6 @@ Big
 Feeble
 Caster
 Forcefield
-Explosion
 
 Use sound effects from X unit
 Onyx Rod

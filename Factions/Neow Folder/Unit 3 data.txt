@@ -26,7 +26,6 @@ Sturdy
 Wide Attacks
 Burning
 Inert
-Big
 Fast
 
 Use sound effects from X unit
