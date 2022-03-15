@@ -1,41 +1,45 @@
-Names (first basic, then the upgrade)
+Names
 Ne-Swordman
-Ne-Swordmarine
+Ne-Swordroid
 
-Gold cost for base unit (also decides basic strength of unit)
-185
+Gold cost for base unit
+260
 
 Weekly Growth
-8
+7
 
-Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
-00
+Rare Resource Cost
+0O
 
-Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
+Balance modifier
 100
-110
+100
 
-Abilities for base unit
-Fast
+Abilities
 Quick Strikes
-Small
-
-Abilities for upgrade (duplicate  from base unit if you want to keep them)
+Burning
 Fast
-Quick Strikes
-Leap
 
+Abilities for upgrade
+Quick Strikes
+Sturdy
+Wide Attacks
+Burning
+Big
+Fast
 
 Use sound effects from X unit
 Swordman
 
-Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+Attack type
 1
 
-Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+Living
 1
 
-Link				(unit summoned via Summoning, Bodyguards, or similar)
+Link
 Toadfrog
 
 Unit groups
+
+
