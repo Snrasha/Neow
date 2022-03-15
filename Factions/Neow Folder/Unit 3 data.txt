@@ -25,6 +25,7 @@ Quick Strikes
 Sturdy
 Wide Attacks
 Burning
+Inert
 Big
 Fast
 

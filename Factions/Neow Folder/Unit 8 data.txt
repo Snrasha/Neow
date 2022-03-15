@@ -18,15 +18,13 @@ Balance modifier
 Abilities
 Ranged
 Fireprojectile
-Wide Attacks
 Burning
 Inert
+Blaster
 Hover
 Small
 Big
-Caster
-Forcefield
-Explosion
+Feeble
 
 Abilities for upgrade
 Ranged
@@ -35,9 +33,9 @@ Burning
 Blaster
 Inert
 Empower
-Hover
 Small
 Big
+Feeble
 Caster
 Forcefield
 Explosion

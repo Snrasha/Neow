@@ -6,18 +6,18 @@ Ne-Gunner
 
 Skills
 Pyromancy
-Rallying
+Mastery
 Regeneration
 Learning
 Oligarchy
-Mastery
+Archery
 Mysticism
 Wisdom
 Combat
 Healing
 Bodyguards
 Sorcery
-Blessing
+Swarming
 Bloodwarping
 Champion
 Tactics

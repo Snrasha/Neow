@@ -1,45 +1,50 @@
-Names (first basic, then the upgrade)
+Names
 Ne-Leader
 Ne-Chieftain
 
-Gold cost for base unit (also decides basic strength of unit)
+Gold cost for base unit
 850
 
 Weekly Growth
 3
 
-Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
-00
+Rare Resource Cost
+0O
 
-Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
+Balance modifier
 100
 120
 
-Abilities for base unit
+Abilities
 Ranged
+Bodyguards
 Bodyguards
 Aura of Power
 Feeble
 Small
 Big
 
-Abilities for upgrade (duplicate  from base unit if you want to keep them)
+Abilities for upgrade
 Ranged
+Bodyguards
 Bodyguards
 Aura of Power
 Tank
 Quick Strikes
+Inert
 
 Use sound effects from X unit
 Hand cannoneer
 
-Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+Attack type
 1
 
-Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+Living
 1
 
-Link				(unit summoned via Summoning, Bodyguards, or similar)
+Link
 Ne-Gunner
 
 Unit groups
+
+

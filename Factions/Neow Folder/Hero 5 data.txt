@@ -13,7 +13,7 @@ Diplomacy
 Estates
 Learning
 Wisdom
-Combat
+Archery
 Plunder
 Bodyguards
 Sorcery
