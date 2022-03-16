@@ -20,6 +20,8 @@ Inert
 Tank
 Impenetrable
 Lash
+Caster
+Shield
 
 Abilities for upgrade
 Inert

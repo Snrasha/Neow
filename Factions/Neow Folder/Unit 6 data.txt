@@ -12,8 +12,8 @@ Rare Resource Cost (00 for nothing. Write in number + letter, where letters are:
 00
 
 Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
-100
 110
+120
 
 Abilities for base unit
 Ranged

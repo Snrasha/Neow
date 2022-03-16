@@ -18,7 +18,6 @@ Balance modifier
 Abilities
 Ranged
 Bodyguards
-Bodyguards
 Aura of Power
 Feeble
 Small
@@ -26,7 +25,6 @@ Big
 
 Abilities for upgrade
 Ranged
-Bodyguards
 Bodyguards
 Aura of Power
 Tank
@@ -43,8 +41,6 @@ Living
 1
 
 Link
-Ne-Gunner
+Ne-Marine
 
 Unit groups
-
-
