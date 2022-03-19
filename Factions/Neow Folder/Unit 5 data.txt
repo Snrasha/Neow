@@ -17,14 +17,15 @@ Balance modifier
 
 Abilities
 Ranged
+Bulletprojectile
 Bodyguards
 Aura of Power
 Feeble
-Small
-Big
+Shrink
 
 Abilities for upgrade
 Ranged
+Bulletprojectile
 Bodyguards
 Aura of Power
 Tank
@@ -44,3 +45,5 @@ Link
 Ne-Marine
 
 Unit groups
+
+
