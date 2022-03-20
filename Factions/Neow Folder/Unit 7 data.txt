@@ -38,7 +38,7 @@ Use sound effects from X unit
 Onyx rod
 
 Attack type
-1
+2
 
 Living
 0
@@ -47,3 +47,5 @@ Link
 Ne-Artillery
 
 Unit groups
+
+

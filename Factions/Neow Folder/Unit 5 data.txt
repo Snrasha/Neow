@@ -12,8 +12,8 @@ Rare Resource Cost
 0O
 
 Balance modifier
-100
-120
+105
+115
 
 Abilities
 Ranged

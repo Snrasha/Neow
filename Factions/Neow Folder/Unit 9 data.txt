@@ -12,8 +12,8 @@ Rare Resource Cost
 2C
 
 Balance modifier
-120
-160
+140
+140
 
 Abilities
 Inert
@@ -35,7 +35,7 @@ Use sound effects from X unit
 Onyx rod
 
 Attack type
-1
+2
 
 Living
 0
@@ -44,3 +44,5 @@ Link
 Ni-Tank
 
 Unit groups
+
+
