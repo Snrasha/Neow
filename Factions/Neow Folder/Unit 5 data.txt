@@ -12,15 +12,14 @@ Rare Resource Cost
 0O
 
 Balance modifier
+100
 105
-115
 
 Abilities
 Ranged
 Bulletprojectile
 Bodyguards
 Aura of Power
-Feeble
 Shrink
 
 Abilities for upgrade
@@ -28,7 +27,7 @@ Ranged
 Bulletprojectile
 Bodyguards
 Aura of Power
-Tank
+Sturdy
 Quick Strikes
 Inert
 
@@ -45,5 +44,3 @@ Link
 Ne-Marine
 
 Unit groups
-
-
