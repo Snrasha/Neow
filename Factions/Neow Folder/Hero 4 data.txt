@@ -8,7 +8,7 @@ Skills
 neow_droparmy
 Mastery
 Regeneration
-Learning
+Pyromancy
 Oligarchy
 Archery
 Mysticism

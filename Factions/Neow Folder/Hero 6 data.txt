@@ -11,7 +11,7 @@ Sorcery
 Summoning
 Recruitment
 Scouting
-Mysticism
+Pyromancy
 Wisdom
 Mastery
 Healing

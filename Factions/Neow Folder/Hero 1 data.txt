@@ -10,7 +10,7 @@ Armorer
 Mastery
 Healing
 Plunder
-Oligarchy
+Legion
 Destruction
 Recruitment
 Engineering
