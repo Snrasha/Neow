@@ -1,0 +1,8 @@
+Skill Name
+Support Army
+
+Reference Name
+neow_supportarmy
+
+Skill Description
+At the start of battle, summon unit around hero. Number increase with Attack. Increase quality for each rank

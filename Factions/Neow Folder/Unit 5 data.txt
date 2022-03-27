@@ -1,6 +1,10 @@
 Names
-Ne-Leader
-Ne-Chieftain
+Leader
+Chieftain
+
+Reference Name
+neow-Leader
+neow-Chieftain
 
 Gold cost for base unit
 850

@@ -2,10 +2,10 @@ Name
 Wirika Marika
 
 Unit
-Ne-Drone
+neow-Drone
 
 Skills
-Legion
+neow_supportarmy
 Archery
 Mastery
 Healing

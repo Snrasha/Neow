@@ -2,10 +2,10 @@ Name
 Iris the mute
 
 Unit
-Ne-Healer
+neow-Healer
 
 Skills
-Pyromancy
+neow_droparmy
 Leadership
 Sorcery
 Summoning

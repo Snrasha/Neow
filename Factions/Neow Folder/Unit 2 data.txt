@@ -1,6 +1,10 @@
 Names (first basic, then the upgrade)
-Ne-Gunner
-Ne-Marine
+Gunner
+Marine
+
+Reference Name
+neow-Gunner
+neow-Marine
 
 Gold cost for base unit (also decides basic strength of unit)
 120

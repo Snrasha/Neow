@@ -1,6 +1,10 @@
 Names
-Ne-MechaSpider
-Ne-T-Crystal
+MechaSpider
+T-Crystal
+
+Reference Name
+neow-MechaSpider
+neow-T-Crystal
 
 Gold cost for base unit
 2700
@@ -44,5 +48,3 @@ Link
 Ni-Tank
 
 Unit groups
-
-

@@ -1,0 +1,8 @@
+Skill Name
+Drop Army
+
+Reference Name
+neow_droparmy
+
+Skill Description
+At the start of battle, summon unit randomly around the army. Number increase with SpellPower. Increase quality for each rank

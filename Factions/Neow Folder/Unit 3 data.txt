@@ -1,6 +1,10 @@
 Names
-Ne-Swordman
-Ne-Swordroid
+Swordman
+Swordroid
+
+Reference Name
+neow-Swordman
+neow-Swordroid
 
 Gold cost for base unit
 260
@@ -41,5 +45,3 @@ Link
 Toadfrog
 
 Unit groups
-
-

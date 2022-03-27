@@ -2,10 +2,10 @@ Name
 Andress the bloodless
 
 Unit
-Ne-Drone
+neow-Drone
 
 Skills
-Legion
+neow_supportarmy
 Combat
 Champion
 Healing

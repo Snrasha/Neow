@@ -2,10 +2,10 @@ Name
 Olig Vlad
 
 Unit
-Ne-Drone
+neow-Drone
 
 Skills
-Legion
+neow_supportarmy
 Armorer
 Mastery
 Healing

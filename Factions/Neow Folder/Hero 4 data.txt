@@ -2,10 +2,10 @@ Name
 Gary the blind
 
 Unit
-Ne-Gunner
+neow-Gunner
 
 Skills
-Pyromancy
+neow_droparmy
 Mastery
 Regeneration
 Learning

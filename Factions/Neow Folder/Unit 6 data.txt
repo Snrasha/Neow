@@ -1,6 +1,10 @@
 Names
-Ne-Healer
-Ne-ExoHealer
+Healer
+ExoHealer
+
+Reference Name
+neow-Healer
+neow-ExoHealer
 
 Gold cost for base unit
 350
@@ -42,5 +46,3 @@ Link
 Ne-Gunner
 
 Unit groups
-
-

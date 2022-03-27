@@ -2,10 +2,10 @@ Name
 Clara the deaf
 
 Unit
-Ne-Swordman
+neow-Swordman
 
 Skills
-Pyromancy
+neow_droparmy
 Warding
 Regeneration
 Mysticism

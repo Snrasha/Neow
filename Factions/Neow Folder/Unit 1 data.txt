@@ -1,6 +1,10 @@
 Names
-Ne-Drone
-Ne-Drone-II
+Drone
+Drone-II
+
+Reference Name
+neow-Drone
+neow-Drone-II
 
 Gold cost for base unit
 30
@@ -39,5 +43,3 @@ Link
 Ne-Drone
 
 Unit groups
-
-

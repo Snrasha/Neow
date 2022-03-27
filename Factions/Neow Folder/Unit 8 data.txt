@@ -1,6 +1,10 @@
 Names
-Ne-FireBringer
-Ne-FireCrystal
+FireBringer
+FireCrystal
+
+Reference Name
+neow-FireBringer
+neow-FireCrystal
 
 Gold cost for base unit
 1200
@@ -48,5 +52,3 @@ Link
 No-Artillery
 
 Unit groups
-
-

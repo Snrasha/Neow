@@ -1,6 +1,10 @@
 Names
-Ne-Artillery
-Ne-ExoShard
+Artillery
+ExoShard
+
+Reference Name
+neow-Artillery
+neow-ExoShard
 
 Gold cost for base unit
 900
@@ -47,5 +51,3 @@ Link
 Ne-Artillery
 
 Unit groups
-
-

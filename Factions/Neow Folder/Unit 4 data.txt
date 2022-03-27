@@ -1,6 +1,10 @@
 Names
-Ne-Defender
-Ne-DreadTank
+Defender
+DreadTank
+
+Reference Name
+neow-Defender
+neow-DreadTank
 
 Gold cost for base unit
 200
@@ -38,5 +42,3 @@ Link
 Ne-ShieldRecruit
 
 Unit groups
-
-
