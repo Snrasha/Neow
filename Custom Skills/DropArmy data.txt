@@ -5,4 +5,4 @@ Reference Name
 neow_droparmy
 
 Skill Description
-At the start of battle, summon unit randomly around the army. Number increase with SpellPower. Increase quality for each rank
+At the start of battle, summon ranged bodyguard and qew melee around the Hero. Increase each rank.

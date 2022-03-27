@@ -5,4 +5,4 @@ Reference Name
 neow_supportarmy
 
 Skill Description
-At the start of battle, summon unit around hero. Number increase with Attack. Increase quality for each rank
+At the start of battle, summon melee bodyguard and qew ranged around the Hero. Increase each rank.
