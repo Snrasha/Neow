@@ -5,5 +5,5 @@ Hero:
 Olig Vlad
 
 Add units:
-neow-Gunner
-neow-Marine
+neow_Gunner
+neow_Marine

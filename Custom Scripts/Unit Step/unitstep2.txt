@@ -1,0 +1,13 @@
+if ishero = 0
+{
+    if growthcountdown_neow > (0-1)
+    {
+        growthcountdown_neow += 1
+        if growthcountdown_neow > 200
+        {
+            growthcountdown_neow = 0
+						summonunit_permanent("neow_Drone",1)
+            chealth = 0
+        }
+    }
+}

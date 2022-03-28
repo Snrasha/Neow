@@ -3,8 +3,8 @@ Leader
 Chieftain
 
 Reference Name
-neow-Leader
-neow-Chieftain
+neow_Leader
+neow_Chieftain
 
 Gold cost for base unit
 850
@@ -45,6 +45,6 @@ Living
 1
 
 Link
-Ne-Marine
+neow_Marine
 
 Unit groups

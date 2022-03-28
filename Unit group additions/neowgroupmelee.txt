@@ -5,5 +5,5 @@ Hero:
 Olig Vlad
 
 Add units:
-neow-Swordman
-neow-Swordroid
+neow_Swordman
+neow_Swordroid

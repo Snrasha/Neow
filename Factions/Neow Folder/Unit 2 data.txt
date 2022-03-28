@@ -3,8 +3,8 @@ Gunner
 Marine
 
 Reference Name
-neow-Gunner
-neow-Marine
+neow_Gunner
+neow_Marine
 
 Gold cost for base unit (also decides basic strength of unit)
 120
@@ -23,6 +23,7 @@ Abilities for base unit
 Ranged
 Bulletprojectile
 Quick Strikes
+neow_Growth
 
 Abilities for upgrade (duplicate  from base unit if you want to keep them)
 Ranged
@@ -41,6 +42,6 @@ Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid 
 1
 
 Link				(unit summoned via Summoning, Bodyguards, or similar)
-Ne-Gunner
+neow_Gunner
 
 Unit groups

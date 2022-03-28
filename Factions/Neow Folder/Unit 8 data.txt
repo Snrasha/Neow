@@ -3,8 +3,8 @@ FireBringer
 FireCrystal
 
 Reference Name
-neow-FireBringer
-neow-FireCrystal
+neow_FireBringer
+neow_FireCrystal
 
 Gold cost for base unit
 1200
@@ -49,6 +49,6 @@ Living
 0
 
 Link
-No-Artillery
+neow_Gunner
 
 Unit groups

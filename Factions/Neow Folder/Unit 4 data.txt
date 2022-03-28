@@ -3,8 +3,8 @@ Defender
 DreadTank
 
 Reference Name
-neow-Defender
-neow-DreadTank
+neow_Defender
+neow_DreadTank
 
 Gold cost for base unit
 200
@@ -39,6 +39,6 @@ Living
 1
 
 Link
-Ne-ShieldRecruit
+neow_Gunner
 
 Unit groups

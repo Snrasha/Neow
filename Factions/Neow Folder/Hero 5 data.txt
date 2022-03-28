@@ -2,7 +2,7 @@ Name
 Clara the deaf
 
 Unit
-neow-Swordman
+neow_Swordman
 
 Skills
 neow_droparmy

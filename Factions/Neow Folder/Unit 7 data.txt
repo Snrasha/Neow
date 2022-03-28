@@ -3,8 +3,8 @@ Artillery
 ExoShard
 
 Reference Name
-neow-Artillery
-neow-ExoShard
+neow_Artillery
+neow_ExoShard
 
 Gold cost for base unit
 900
@@ -48,6 +48,6 @@ Living
 0
 
 Link
-Ne-Artillery
+neow_Gunner
 
 Unit groups

@@ -1,4 +1,3 @@
-
 if ishero
 {
 	checkskillrank("neow_droparmy")

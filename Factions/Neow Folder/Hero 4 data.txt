@@ -2,7 +2,7 @@ Name
 Gary the blind
 
 Unit
-neow-Gunner
+neow_Gunner
 
 Skills
 neow_droparmy

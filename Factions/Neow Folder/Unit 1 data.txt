@@ -3,8 +3,8 @@ Drone
 Drone-II
 
 Reference Name
-neow-Drone
-neow-Drone-II
+neow_Drone
+neow_Drone-II
 
 Gold cost for base unit
 30
@@ -40,6 +40,6 @@ Living
 0
 
 Link
-Ne-Drone
+neow_Drone
 
 Unit groups

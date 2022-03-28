@@ -2,7 +2,7 @@ Name
 Andress the bloodless
 
 Unit
-neow-Drone
+neow_Drone
 
 Skills
 neow_supportarmy

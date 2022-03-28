@@ -3,8 +3,8 @@ Healer
 ExoHealer
 
 Reference Name
-neow-Healer
-neow-ExoHealer
+neow_Healer
+neow_ExoHealer
 
 Gold cost for base unit
 350
@@ -43,6 +43,6 @@ Living
 1
 
 Link
-Ne-Gunner
+neow_Gunner
 
 Unit groups

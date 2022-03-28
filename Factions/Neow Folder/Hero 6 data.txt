@@ -2,7 +2,7 @@ Name
 Iris the mute
 
 Unit
-neow-Healer
+neow_Healer
 
 Skills
 neow_droparmy

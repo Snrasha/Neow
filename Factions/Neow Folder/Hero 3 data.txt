@@ -2,7 +2,7 @@ Name
 Wirika Marika
 
 Unit
-neow-Drone
+neow_Drone
 
 Skills
 neow_supportarmy
