@@ -24,6 +24,7 @@ Inert
 Tank
 Impenetrable
 Lash
+neow_shield
 Caster
 Shield
 
@@ -34,6 +35,7 @@ Empower
 Tank
 Impenetrable
 Lash
+neow_shield
 
 Use sound effects from X unit
 Onyx rod

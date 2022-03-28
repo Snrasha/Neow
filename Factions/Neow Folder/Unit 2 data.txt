@@ -23,7 +23,6 @@ Abilities for base unit
 Ranged
 Bulletprojectile
 Quick Strikes
-neow_Growth
 
 Abilities for upgrade (duplicate  from base unit if you want to keep them)
 Ranged
