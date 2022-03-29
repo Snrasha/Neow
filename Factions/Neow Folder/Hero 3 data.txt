@@ -5,7 +5,7 @@ Unit
 neow_Drone
 
 Skills
-neow_supportarmy
+neow_boostpower
 Archery
 Mastery
 Healing

@@ -5,7 +5,7 @@ Unit
 neow_Swordman
 
 Skills
-neow_droparmy
+neow_supportdrop
 Warding
 Regeneration
 Mysticism

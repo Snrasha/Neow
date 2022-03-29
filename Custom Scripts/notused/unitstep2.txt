@@ -1,6 +1,6 @@
 if ishero = 0
 {
-  if growthcountdown_neow > (0-1)
+  if growthcountdown_neow > -1
   {
     growthcountdown_neow += 1
     if growthcountdown_neow > 30+ceil(random(30))

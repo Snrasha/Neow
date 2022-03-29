@@ -22,3 +22,18 @@ if (ishero)&(neow_summon_skill_drop)
 		summonunit(foundunit,skillrank*3)
 	}
 }
+if (ishero)&(neow_summon_skill_supportDrop)
+{
+	checkskillrank("neow_supportdrop")
+	if skillrank > 0
+	{
+		range=0
+		if(skillrank > 2){
+		 range=1
+		}
+		pickunitfromgroup("neow_support_melee",range)
+		summonunit(foundunit,floor(neow_summon_skill_supportDrop*(6+skillrank)))
+		pickunitfromgroup("neow_support_ranged",range)
+		summonunit(foundunit,floor(neow_summon_skill_supportDrop*(6+skillrank)))
+	}
+}

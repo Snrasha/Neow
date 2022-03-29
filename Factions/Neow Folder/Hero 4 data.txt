@@ -5,7 +5,7 @@ Unit
 neow_Gunner
 
 Skills
-neow_droparmy
+neow_supportdrop
 Mastery
 Regeneration
 Pyromancy

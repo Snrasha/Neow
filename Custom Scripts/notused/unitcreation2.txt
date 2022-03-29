@@ -1,0 +1,20 @@
+if ishero = 0
+{
+  checkability("neow_Growth")
+  growthcountdown_neow = -1
+  if (hasability)&(armyspot>-1)
+  {
+    growthcountdown_neow = 0
+  }
+}
+
+
+if ishero = 0
+{
+  checkability("neow_shield")
+  countdown_neow_shield = -1
+  if (hasability)
+  {
+    countdown_neow_shield = 18
+  }
+}

@@ -5,7 +5,7 @@ Unit
 neow_Healer
 
 Skills
-neow_droparmy
+neow_supportdrop
 Leadership
 Sorcery
 Summoning
