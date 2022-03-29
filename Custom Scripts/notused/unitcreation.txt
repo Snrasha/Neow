@@ -1,0 +1,13 @@
+if ishero
+{
+	checkskillrank("neow_droparmy")
+	if skillrank > 0
+	{
+		neow_summon_skill_drop = 1
+	}
+	checkskillrank("neow_supportarmy")
+	if skillrank > 0
+	{
+		neow_summon_skill_support = 1
+	}
+}

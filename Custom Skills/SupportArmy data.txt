@@ -1,8 +1,0 @@
-Skill Name
-Support Army
-
-Reference Name
-neow_supportarmy
-
-Skill Description
-At the start of battle, summon melee bodyguard and qew ranged around the Hero. Increase each rank.
