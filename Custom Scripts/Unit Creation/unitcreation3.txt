@@ -26,6 +26,9 @@ if supportdrop|boostpower
       mhealth *= (1+neow_diff)
       damage *= (1+neow_diff)
       size += neow_diff/3
+//      neow_diff = (neow_diff + 1) * 100
+//      neow_diff = "+" + neow_diff
+      show_message("Buffed")
     }
 }
 if ishero
